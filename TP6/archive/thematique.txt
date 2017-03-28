@@ -1,0 +1,52 @@
+
+Thématiques de Recherche
+
+les activités du LIA couvrent trois grandes thématiques de recherche:
+
+    * le traitement automatique du langage écrit et oral
+    * les réseaux et applications multimédias
+    * l'optimisation et la recherche opérationnelle
+
+Ces activités de recherche, à la pointe de la technologie, et dont les applications industrielles sont diverses et variées,apporte
+une grande richesse à la formation, donnant une coloration toute particulière aux enseignements, notamment au niveau
+du Master.
+
+
+Traitement du Language
+
+L'équipe Langage est composée de 13 enseignants-chercheurs permanents. Sa couverture thématique sur le domaine du
+traitement automatique du langage est large, les recherches réalisées portant sur une grande variété d'objets
+linguistiques (parole lue ou spontanée, dialogues, texte mono ou multilingues...) des niveaux et des paradigmes
+de représentation (signal, syntaxe, concepts, thèmes, etc...), des objectifs applicatifs (extraction d'information
+linguistique ou extra-linguistique, analyse des contenus parlés ou écrits, recherche d'information, résumé 
+automatique, systèmes de dialogue, etc...). Cette diversité des sujets d'études est abordée avec une culture scientifique
+et technologique commune, principalement basée sur les statistiques bayésiennes, l'apprentissage et la classification
+automatique, la théorie de l'information, le traitement du signal et l'analyse de données. Enfin, les méthodologies
+mises en œuvre reposent le plus souvent sur des expérimentations sur corpus, le développement de systèmes et leur 
+engagement dans des campagnes d'évaluation. Globalement, la thématique langage s'organise en trois sous-thématiques
+qui se concentrent sur le traitement automatique de la Parole (Parole), de l'écrit (TALNE), et sur l'analyse des contenus
+parlés (Dialogue).
+
+
+
+Optimisation et recherche opŽrationnelle
+
+Dans le vaste champ couvert par la recherche opérationnelle, le LIA se concentre essentiellement sur deux domaines
+: l’optimisation discrète et la théorie des jeux. Beaucoup de projets du LIA font appel à d’autres domaines de la recherche
+opérationnelle (théorie des graphes, théorie des files d’attente, chaînes de Markov), mais ces domaines sont alors plus
+abordés en tant qu’outils qu’en tant que thèmes de recherche. Optimisation discrète L’optimisation discrète concerne les problèmes d’optimisation (minimisation de coûts, maximisation de bénéfices, les deux concepts devant être pris au sens large) où une partie au moins des variables de décision doivent prendre des valeurs discrètes (entières). De manière générale, la politique suivie est de développer des activités selon un axe “ fondamental ” et un axe “ appliqué ”. Ces deux directions nous semblent en réalité, dans une discipline comme la recherche opérationnelle, indissociables et s’enrichissent mutuellement. Pour ces même raisons, les activités sont d’une part regroupées selon des thématiques “ problèmes ” (on s’intéresse avant tout au problème et on cherche des méthodes efficaces de résolution) et, d’autre part, selon des thématiques “ méthodes ” (on focalise sur la méthode pour mieux en comprendre le fonctionnement, la rendre plus performante, la faire évoluer en l’appliquant éventuellement à différents problèmes). Les principales directions de recherche en optimisation discrète sont :
+
+    * la coopération metaheuristiques – méthodes exactes
+    * les méthodes de décomposition
+    * la planification de transport
+
+Réseaux
+
+La thematique RESEAUX regroupe deux sous-thématiques: RAM et COSMOS. La sous-thématique RAM « Réseaux et Applications
+Multimédia » Les activités de RAM sont centrées principalement autour de l’algorithmique distribuée pour la conception
+de protocoles de communication. Nous nous intéressons essentiellement aux protocoles pour le multicast, le multimédia, 
+la sécurité et la garantie de la QoS « Qualité de service » dans un environnement de réseaux hétérogènes.
+La sous-thématique COSMOS: « Systèmes Communicants: Modelisation, Optimisation et Simulation ».
+(Communication Systems: Modelling, Optimization and Simulation) Les activités de recherche de COSMOS portent sur
+la modélisation et l'optimisation des problèmes issus des réseaux de télécommunication et en particulier les réseaux 
+sans fil.

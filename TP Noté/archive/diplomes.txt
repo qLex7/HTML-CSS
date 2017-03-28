@@ -1,0 +1,61 @@
+
+Une formation professionnalisante, orientée "Entreprises", "International" et "Métiers"
+
+Le Centre d’Enseignement et de Recherche en Informatique (CERI) de l’Université d’Avignon et des Pays de Vaucluse, propose
+une formation universitaire de haut niveau - Licence (Bac+3), Master (Bac+5), Doctorat (Bac+8) en informatique - associée
+à un enseignement professionnalisé adapté à la culture des entreprises.
+
+
+Licence Informatique
+
+Organisée sur 3 années, la licence propose:
+
+    * des enseignements fondamentaux informatique et scientifique ainsi que des enseignements de préprofessionnalisation;
+    * des enseignements complémentaires techniques de plus en plus spécialisés.
+
+Les enseignements fondamentaux apportent les bases de l’informatique et toutes les connaissances nécessaires au métier
+d’informaticien. Les matières complémentaires, au choix de l’étudiant, amènent, quant à elles, une bonne ouverture sur
+les nouvelles technologies du développement Web, de la gestion électronique de documents (GED), de l’optimisation et de
+la planification, des réseaux et des télécommunications... Ainsi les étudiants maîtrisent tout au long de la formation 
+leur projet professionnel et/ou leur poursuite d’études.
+
+La formation en Licence est constituée, pour un tiers, de cours donnés en amphithéâtre avec l'ensemble de la promotion.
+Les deux autres tiers sont répartis en Travaux Dirigés (TD) et Travaux Pratiques (TP) pour lesquels les étudiants sont
+ répartis en petits groupes de 18 à 24 étudiants maximum suivant les unités d'enseignement pour un meilleur encadrement.
+
+Par ailleurs, la Licence informatique intègre le plan "Réussite en Licence" mis en place à l'université d'Avignon.
+Ce plan comprend:
+
+    * l'accueil et l'accompagnement des étudiants de 1ère année de Licence par un enseignant référent dès la rentrée universitaire et tout au long du semestre;
+    * des évaluations basées principalement sur du contrôle continu réalisé tout au long du semestre;
+    * des séances de tutorat pour les étudiants en difficulté.
+
+
+Master
+
+Le Master Informatique correspond à une formation de très haut niveau associant compétences pratiques, bases scientifiques
+ et stages en entreprises. Suivant le parcours pédagogique choisi, le Master correspond à une formation pointue en :
+
+    * Ingénierie du logiciel, des Systèmes d’Informations et du Multimédia : génie logiciel, développement Web, gestion électronique de documents (GED), commerce électronique, indexation automatique, interfaces vocales, technologies J2EE, .NET, XML, UML...;
+    * Ingénierie des Réseaux informatiques : qualité de service, réseaux mobiles, architectures de communication hétérogènes, compression de données, multimédia...;
+    * Informatique décisionnelle : aide à la décision, Data Mining, optimisation des systèmes organisationnels et des ressources, management de la chaîne logistique et des organisations, systèmes d‘information d’entreprises...;
+    * Informatique et Traitement Automatique des Langues : reconnaissance et synthèse de la parole et des locuteurs, recherche d’informations et fouille de textes sur internet, apprentissage automatique....
+
+La formation du Master Informatique se décline sous la forme suivante:
+
+    * des unités d'enseignement "Tronc commun" obligatoires incluant des modules fondamentaux d'informatique et des modules de professionnalisation (anglais, expression, entreprises) - Réseaux, Génie Logiciel et Algorithmique (S1), Management et Technologies (S1), Infrastructures Logicielles et Interfaces (S2), Professionnalisation (S3);
+    * un projet encadré à réaliser chaque semestre;
+
+
+Doctorat
+
+Le LIA ouvre la possibilité aux étudiants de Master qui le désirent de poursuivre leurs études dans le cadre d'un doctorat
+ (Bac+8). Cette poursuite est évidemment destinée aux étudiants diplômés d'un Master informatique de l'université d'Avignon
+, mais est également offerte à tout étudiant venant d'universités françaises ou étrangères. Pour faciliter cette poursuite
+ d'études et permettre aux étudiants de découvrir le monde de la recherche, le stage de 2e année de Master, généralement 
+réalisé en entreprise, peut être effectué au sein du laboratoire sous la direction d'un enseignant-chercheur et sur 
+une de ses thématiques de recherche. A la fin du stage et sous réserve de l'obtention d'un financement de thèse 
+(la recherche du financement est généralement laissée à la charge des enseignants-chercheurs), l'étudiant pourra 
+continuer son travail de recherche pendant 3 années dans le laboratoire. L'obtention du diplôme de doctorat et du 
+titre de "docteur ès sciences, spécialité Informatique" est soumise à la rédaction d'un document de thèse, validé par 
+deux rapporteurs du domaine et à une soutenance de thèse devant un jury d'experts.

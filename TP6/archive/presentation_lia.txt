@@ -1,0 +1,6 @@
+
+Le LIA (Laboratoire Informatique d’Avignon) est une Equipe d'Accueil (EA n° 4128) qui regroupe les enseignants-chercheurs
+de l’Université d’Avignon et des Pays de Vaucluse (UAPV) relevant de la 27e section du CNU ainsi que les étudiants 
+doctorants et les stagiaires de MASTER durant la période consacrée à leur travail de recherche. Le LIA est rattaché à 
+l'école doctorale Sciences et AgroSciences (ED 536) de l'Université d'Avignon et des Pays de Vaucluse. Fondé en 1987 par
+Henri Méloni, ancien President de l'UAPV, le laboratoire est actuellement dirigé par Georges Linarès.

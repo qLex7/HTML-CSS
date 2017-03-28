@@ -1,0 +1,30 @@
+Le Centre d'Enseignement et de Recherche en Informatique (CERI) réunit dans un même bâtiment
+et sous une structure commune toutes les formations en Informatique de l'Université d'Avignon 
+(Licence, Master, Doctorat) et le Laboratoire Informatique d'Avignon (LIA).
+
+
+
+Historique de la formation
+
+En 1991, l'Institut Universitaire Professionnalisé Génie Mathématique et Informatique (IUP GMI) 
+de l'Université d'Avignon est créé sur Avignon en partenariat avec la Chambre de Commerce et d'Industrie (CCI)
+d'Avignon et de Vaucluse. Localisé pendant ses premières années en centre-ville, il déménage en 1995 dans
+de nouveaux locaux situés sur le site d'Agroparc. L'IUP GMI détient le statut particulier des IUP, recrutant
+les étudiants à Bac+1 et les diplômant à Bac+4 avec un titre d'Ingénieur-Maître en informatique. La formation
+a comme caractéristique principale d'être hautement professionnalisante (nombreuses interventions dans les enseignements
+d'extérieurs issus de l'industrie, un conseil de perfectionnement composé à 50% de professionnels extérieurs
+pour l'élaboration et le suivi des contenus pédagogiques, 2 stages obligatoires, ...) et proposant un fort taux 
+d'encadrement des étudiants. Dans les années qui ont suivi sa création, l'IUP GMI s'est vu adjoindre des formations
+à Bac+5 (type DESS), permettant à ses étudiants, qui le désiraient, de se spécialiser sur une année supplémentaire.
+
+A partir de 2004, la réforme du LMD (ie le passage au système européen : diplômes Bac+3, Bac+5, Bac+8) a conduit 
+les IUP, et par conséquent l'IUP GMI d'Avignon à revoir leurs formations, devenues incompatibles. Se basant sur
+les formations présentes à l'Université (notamment en sciences) et sur les DESS en informatique, l'IUP GMI s'est
+transformé au fil des années en une Licence et un Master en informatique, proposant à ce jour un 
+recrutement Post-Bac (en Licence 1ère année) et des diplômes à Bac+3, Bac+5, et même Bac+8.
+
+Malgré cette évolution, notre formation a su conserver une grande partie des principes des IUP, et en particulier
+son caractère professionnalisant.
+
+A des fins de visibilité (la terminologie IUP n'ayant plus de sens académique), notre formation revêt, aujourd'hui, 
+le nom du centre dont elle fait partie avec le LIA : le Centre d'Enseignement et de Recherche en Informatique (CERI).
